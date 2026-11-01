@@ -4,7 +4,7 @@
 
 I turn environmental, climate and scientific data into evidence: carbon accounting, life cycle assessment, meta-analysis, data validation and reporting, using Python, SQL, Power BI and Excel.
 
-> Every project is reproducible and unit-tested. Case studies run on simulated datasets or model inventories, so results can be checked against known values.
+> Every project is reproducible, unit-tested and continuously tested on GitHub Actions. Datasets are seeded, so every number can be regenerated and checked.
 
 ## Featured projects
 | Project | What it shows | Tests |

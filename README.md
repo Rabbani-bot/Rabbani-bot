@@ -1,6 +1,6 @@
 # Mohammad Rabbani
 
-**Sustainability Data Analyst & Research Assistant** | BS Chemistry, MS Green & Sustainable Chemistry | Swat, Pakistan
+**Sustainability Data Analyst & Research Assistant** 
 
 I turn environmental, climate and scientific data into evidence: carbon accounting, life cycle assessment, meta-analysis, data validation and reporting, using Python, SQL, Power BI and Excel.
 
